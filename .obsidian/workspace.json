@@ -241,12 +241,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "はまった音楽履歴.md",
+                "file": "岡山観光MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "はまった音楽履歴"
+              "title": "岡山観光MAP"
             }
           }
         ],
@@ -394,6 +394,7 @@
   },
   "active": "a66a3e16da9d92f7",
   "lastOpenFiles": [
+    "はまった音楽履歴.md",
     "てへんの会.md",
     "宮沢賢治テキスト.md",
     "2023-06-02.md",
@@ -409,7 +410,6 @@
     "books/深い河.md",
     "books/無題のフォルダ",
     "舞台/一覧.md",
-    "はまった音楽履歴.md",
     "舞台",
     "映画.md",
     "ワールドミュージック.md",
