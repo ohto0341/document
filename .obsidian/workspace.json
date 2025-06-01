@@ -1,0 +1,432 @@
+{
+  "main": {
+    "id": "b0f3dc019191dd38",
+    "type": "split",
+    "children": [
+      {
+        "id": "634db55c848cfcfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e65338560524ea92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "やりたいことネタ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "やりたいことネタ"
+            }
+          },
+          {
+            "id": "e20052647ddb2637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "夢二2024企画.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "夢二2024企画"
+            }
+          },
+          {
+            "id": "be8899394f87cef6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "キャンパス１.canvas",
+                "viewState": {
+                  "x": 385,
+                  "y": 570,
+                  "zoom": -0.9245779662141802
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "キャンパス１"
+            }
+          },
+          {
+            "id": "ec2adacc1e143495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-06-02"
+            }
+          },
+          {
+            "id": "6bde2830042b3047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-12-02"
+            }
+          },
+          {
+            "id": "7cafc09057fea2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "岡山観光MAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "岡山観光MAP"
+            }
+          },
+          {
+            "id": "86651043f59d7fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "岡山観光MAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "岡山観光MAP"
+            }
+          },
+          {
+            "id": "cae10a791752cb46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/戦禍に生きた演劇人たち.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "戦禍に生きた演劇人たち"
+            }
+          },
+          {
+            "id": "a9e6801e2c4f9b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/日経コンピュータ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日経コンピュータ"
+            }
+          },
+          {
+            "id": "9a6bb0db9c0c8406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "岡山観光MAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "岡山観光MAP"
+            }
+          },
+          {
+            "id": "604be8100a77bca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ワールドミュージック.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ワールドミュージック"
+            }
+          },
+          {
+            "id": "187417d996275bc4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
+            }
+          },
+          {
+            "id": "379b45cbed37dd44",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "キャンパス１.canvas",
+                "viewState": {
+                  "x": 385,
+                  "y": 750,
+                  "zoom": -1.621788074501921
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "キャンパス１"
+            }
+          },
+          {
+            "id": "8e0ac1d3326ae26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "はまった音楽履歴.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "はまった音楽履歴"
+            }
+          },
+          {
+            "id": "f84781bf2d3fe981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movie/ニューシネマパラダイス.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ニューシネマパラダイス"
+            }
+          },
+          {
+            "id": "f05bc04b3423f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movie/羊たちの沈黙.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "羊たちの沈黙"
+            }
+          },
+          {
+            "id": "a66a3e16da9d92f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "はまった音楽履歴.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "はまった音楽履歴"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3abcfe37679b34f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0655b820ee5a228c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d68a44e2273095",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "53b58509279059b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3870aff23d126cc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cb39031170669588",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6953201ad61e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9747dc70720006e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "movie/ロシアンスナイパー.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ロシアンスナイパーへのバックリンク"
+            }
+          },
+          {
+            "id": "8df23a3e448f519d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "movie/ロシアンスナイパー.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ロシアンスナイパーからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "8b0182844bcdf338",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "e005501d40aac200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "movie/ロシアンスナイパー.md"
+              },
+              "icon": "lucide-list",
+              "title": "ロシアンスナイパーのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "a66a3e16da9d92f7",
+  "lastOpenFiles": [
+    "てへんの会.md",
+    "宮沢賢治テキスト.md",
+    "2023-06-02.md",
+    "movie/ロシアンスナイパー.md",
+    "movie/ニューシネマパラダイス.md",
+    "movie/羊たちの沈黙.md",
+    "movie/レオン.md",
+    "books/美人座物語.md",
+    "books/202312_1books.jpg",
+    "真夏の朝の夢.md",
+    "books/同士少女を敵を撃て.md",
+    "books/日経コンピュータ.md",
+    "books/深い河.md",
+    "books/無題のフォルダ",
+    "舞台/一覧.md",
+    "はまった音楽履歴.md",
+    "舞台",
+    "映画.md",
+    "ワールドミュージック.md",
+    "books/永瀬清子とともに.md",
+    "books/202401_1books.jpg",
+    "movie",
+    "岡山観光MAP.md",
+    "books/戦禍に生きた演劇人たち.md",
+    "books/短編集　続　永瀬清子.md",
+    "books/アナキスト本を読む.md",
+    "books/ブレイディみかこ.md",
+    "books/邑久を歩く.md",
+    "books/死してなお踊れ.md",
+    "books/風と共に去りぬのアメリカ.md",
+    "books/法然の編集力.md",
+    "キャンパス１.canvas",
+    "books/202312_1books.jpg.~tmp",
+    "books/IMG_2747.jpg"
+  ]
+}

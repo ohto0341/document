@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"file","file":"岡山観光MAP.md","id":"31cdc2cc38b69066","x":20,"y":-260,"width":780,"height":860},
+		{"type":"file","file":"真夏の朝の夢.md","id":"b4e0752e45f8b033","x":-720,"y":-220,"width":700,"height":400},
+		{"type":"file","file":"やりたいことネタ.md","id":"5e0ddb9731efc2c8","x":-440,"y":261,"width":400,"height":519},
+		{"type":"file","file":"２０４５岡山の歩き方　脚本.md","id":"147b2663b020e64b","x":860,"y":-260,"width":560,"height":400},
+		{"type":"file","file":"夢二2024企画.md","id":"9c6dbab16a557268","x":790,"y":280,"width":700,"height":760},
+		{"id":"576694d61aed6a97","x":160,"y":1015,"width":684,"height":745,"type":"file","file":"星めぐり図鑑.md"}
+	],
+	"edges":[
+		{"id":"6161abb8349d744b","fromNode":"147b2663b020e64b","fromSide":"left","toNode":"31cdc2cc38b69066","toSide":"right"},
+		{"id":"f4945ed37d3e1ba7","fromNode":"576694d61aed6a97","fromSide":"top","toNode":"9c6dbab16a557268","toSide":"left"}
+	]
+}
